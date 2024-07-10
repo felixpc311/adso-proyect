@@ -12,12 +12,12 @@ body {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
   }
   
-  .navbar {
-    background-color: #333;
+/*   .navbar {
+    background-color: #b33030;
     overflow: hidden;
-  }
+  } */
   
-  .navbar ul {
+/*   .navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -38,5 +38,5 @@ body {
   
   .navbar li a:hover {
     background-color: #111;
-  }
+  } */
   
