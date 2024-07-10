@@ -1,4 +1,3 @@
-// src/components/Navbar.js
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
@@ -7,10 +6,10 @@ export default function Navbar() {
     <nav className="navbar">
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/login">Inicio de Sesión</Link>
         </li>
         <li>
-          <Link to="/login">Inicio de Sesión</Link>
+          <Link to="/">Home</Link>
         </li>
       </ul>
     </nav>
