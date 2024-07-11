@@ -2,6 +2,7 @@ import { Link } from "react-router-dom"
 import imagen from '../assets/pexels-mirrographer-1164572.jpg'
 import "../styles/Card.css"
 
+// eslint-disable-next-line react/prop-types
 export default function Card({titulo, descripcion, url, pie}) {
   return (
     <div className="tarjeta">
